@@ -1,0 +1,75 @@
+{
+    "players": {
+        "teamA": [
+            {
+                "playername": "Mohesh Daboo",
+                "position": "MIDFIELDER",
+                "image": "default.png",
+                "captain": true
+            }
+        ],
+        "teamB": [
+            {
+                "playername": "Nuzayh",
+                "position": "ATTACKER",
+                "image": "default.png",
+                "captain": true
+            }
+        ]
+    },
+    "matches": {
+        "next_matches": [
+            {
+                "home_team": "Bel Air YC A",
+                "home_logo": "belairyouthclub.png",
+                "away_team": "Bel Air YC B",
+                "away_logo": "belairyouthclub.png",
+                "date": "29 April 2023",
+                "location": "Bel Air playground"
+            }
+        ],
+        "recent_matches": [
+            {
+                "home_team": "Bel Air YC A",
+                "home_logo": "belairyouthclub.png",
+                "away_team": "Bel Air YC B",
+                "away_logo": "belairyouthclub.png",
+                "date": "29 April 2023",
+                "location": "Bel Air playground",
+                "home_score": "-",
+                "away_score": "-"
+            }
+        ]
+    },
+    "activities": [
+        {
+            "title": "Creation of Bel Air Youth Club",
+            "date_posted": "13 March 2023",
+            "posted_by": "M.Daboo",
+            "description": "Unveiling Our Club Efforts to empower youngsters to develop their skills and to stay healthy.",
+            "tag_name": "SOCCER",
+            "image": "Hanover.png",
+            "display": true
+        }
+    ],
+    "news": [
+        {
+            "title": "Creation of Bel Air Youth Club",
+            "date_posted": "13 March 2023",
+            "posted_by": "M.Daboo",
+            "description": "Unveiling Our Club Efforts to empower youngsters to develop their skills and to stay healthy.",
+            "tag_name": "SOCCER",
+            "image": "Hanover.png",
+            "display": true
+        }
+    ],
+    "headlights": [
+        {
+            "title": "Training on Saturdays @ 16:30"
+        },
+        {
+            "title": "Training on Sundays @ 16:30"
+        }
+    ],
+    "sponsors":[]
+}
