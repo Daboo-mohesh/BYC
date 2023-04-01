@@ -6,6 +6,18 @@
                 "position": "MIDFIELDER",
                 "image": "default.png",
                 "captain": true
+            },
+            {
+                "playername": "Veedesen Moorghen",
+                "position": "DEFENDER",
+                "image": "Veedessen.jpeg",
+                "captain": false
+            },
+            {
+                "playername": "Waseem M Soobhun",
+                "position": "GOALKEEPER",
+                "image": "default.png",
+                "captain": false
             }
         ],
         "teamB": [
@@ -19,6 +31,12 @@
                 "playername": "Sufyaan M Ausrafally",
                 "position": "MIDFIELDER",
                 "image": "default.png",
+                "captain": false
+            },
+            {
+                "playername": "Abdullah M Toraub",
+                "position": "GOALKEEPER",
+                "image": "abdoullah.jpeg",
                 "captain": false
             }
         ]
