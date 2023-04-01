@@ -39,7 +39,6 @@ function bindActivities() {
         }
 
     }
-console.log(content)
     document.getElementById("activities").innerHTML = content;
 }
 
@@ -56,7 +55,6 @@ function bindNews() {
         }
 
     }
-console.log(content)
     document.getElementById("news").innerHTML = content;
 }
 
