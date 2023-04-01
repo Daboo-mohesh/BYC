@@ -24,7 +24,7 @@
             {
                 "playername": "Nuzayh Mohangoo",
                 "position": "ATTACKER",
-                "image": "default.png",
+                "image": "nuzayh.jpeg",
                 "captain": true
             },
             {
@@ -36,7 +36,7 @@
             {
                 "playername": "Sufyaan M Ausrafally",
                 "position": "MIDFIELDER",
-                "image": "default.png",
+                "image": "sufyaan.jpeg",
                 "captain": false
             },
             {
