@@ -14,6 +14,12 @@
                 "captain": false
             },
             {
+                "playername": "Munawwar M Ketwaroo",
+                "position": "DEFENDER",
+                "image": "munawar1.jpeg",
+                "captain": false
+            },
+            {
                 "playername": "Waseem M Soobhun",
                 "position": "GOALKEEPER",
                 "image": "default.png",
