@@ -2,10 +2,40 @@
     "players": {
         "teamA": [
             {
+                "playername": "Manav Gunnoo",
+                "position": "ATTACKER",
+                "image": "default.png",
+                "captain": false
+            },
+            {
+                "playername": "Avish Ramtohul",
+                "position": "ATTACKER",
+                "image": "default.png",
+                "captain": false
+            },
+            {
+                "playername": "Suhaan Katoorah",
+                "position": "MIDFIELDER",
+                "image": "default.png",
+                "captain": false
+            },
+            {
+                "playername": "Krish Gorappa",
+                "position": "MIDFIELDER",
+                "image": "default.png",
+                "captain": true
+            },
+            {
                 "playername": "Mohesh Daboo",
                 "position": "MIDFIELDER",
                 "image": "default.png",
                 "captain": true
+            },
+            {
+                "playername": "Hyder M Peerun",
+                "position": "MIDFIELDER",
+                "image": "default.png",
+                "captain": false
             },
             {
                 "playername": "Veedesen Moorghen",
