@@ -16,7 +16,7 @@
             {
                 "playername": "Suhaan Katoorah",
                 "position": "ATTACKER",
-                "image": "default.png",
+                "image": "suhaan.png",
                 "captain": false
             },
             {
@@ -35,6 +35,12 @@
                 "playername": "Hyder M Peerun",
                 "position": "MIDFIELDER",
                 "image": "default.png",
+                "captain": false
+            },
+            {
+                "playername": "Taleyven Cunnosamy",
+                "position": "MIDFIELDER",
+                "image": "taleven.png",
                 "captain": false
             },
             {
