@@ -126,6 +126,15 @@
     ],
     "news": [
         {
+            "title": "Happy Easter",
+            "date_posted": "08 April 2023",
+            "posted_by": "M.Daboo",
+            "description": "The spirit of Easter is all about hope, love, and joyful living. May you have a blessed day!",
+            "tag_name": "HOLIDAY",
+            "image": "Easter.png",
+            "display": true
+        },
+        {
             "title": "Creation of Bel Air Youth Club",
             "date_posted": "13 March 2023",
             "posted_by": "M.Daboo",
