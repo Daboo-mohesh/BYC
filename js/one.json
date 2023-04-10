@@ -115,6 +115,15 @@
     },
     "activities": [
         {
+            "title": "PUBG Tournament",
+            "date_posted": "12 April 2023",
+            "posted_by": "M.Daboo",
+            "description": "⚠️ Are you ready to battle? ⚠️",
+            "tag_name": "PUBG",
+            "image": "PUBG_COMPETITION_BYC.png",
+            "display": true
+        },
+        {
             "title": "Creation of Bel Air Youth Club",
             "date_posted": "13 March 2023",
             "posted_by": "M.Daboo",
