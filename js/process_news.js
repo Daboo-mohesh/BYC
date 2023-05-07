@@ -15,25 +15,4 @@ function bindNews() {
     document.getElementById("news").innerHTML = content;
 }
 
-function apicall(){
-    fetch('http://141.147.15.204/admin_tbl.php', {
-  method: 'POST',
-  headers: {
-    'Content-Type': 'application/json',
-    // Include any other headers required by the API
-  },
-  body: JSON.stringify({ username: 'daboo_m', password:"1234" }) // Replace with the actual payload data
-})
-  .then(response => response.json())
-  .then(data => {
-    // Process the response data
-    console.log(data);
-  })
-  .catch(error => {
-    // Handle any errors that occurred during the request
-    console.error('Error:', error);
-  });
-}
-
-apicall();
 bindNews();
