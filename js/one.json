@@ -1,0 +1,173 @@
+{
+  "players": {
+    "teamA": [
+      {
+        "playername": "Manav Gunnoo",
+        "position": "ATTACKER",
+        "image": "default.png",
+        "captain": false
+      },
+      {
+        "playername": "Avish Ramtohul",
+        "position": "ATTACKER",
+        "image": "default.png",
+        "captain": false
+      },
+      {
+        "playername": "Suhaan Katoorah",
+        "position": "ATTACKER",
+        "image": "suhaan.jpeg",
+        "captain": false
+      },
+      {
+        "playername": "Krish Gorappa",
+        "position": "MIDFIELDER",
+        "image": "default.png",
+        "captain": true
+      },
+      {
+        "playername": "Mohesh Daboo",
+        "position": "MIDFIELDER",
+        "image": "default.png",
+        "captain": true
+      },
+      {
+        "playername": "Hyder M Peerun",
+        "position": "MIDFIELDER",
+        "image": "default.png",
+        "captain": false
+      },
+      {
+        "playername": "Taleyven Cunnosamy",
+        "position": "MIDFIELDER",
+        "image": "taleven.jpeg",
+        "captain": false
+      },
+      {
+        "playername": "Veedesen Moorghen",
+        "position": "DEFENDER",
+        "image": "Veedessen.jpeg",
+        "captain": false
+      },
+      {
+        "playername": "Munawwar M Ketwaroo",
+        "position": "DEFENDER",
+        "image": "munawar1.jpeg",
+        "captain": false
+      },
+      {
+        "playername": "Waseem M Soobhun",
+        "position": "GOALKEEPER",
+        "image": "default.png",
+        "captain": false
+      }
+    ],
+    "teamB": [
+      {
+        "playername": "Nuzayh Mohangoo",
+        "position": "ATTACKER",
+        "image": "nuzayh.jpeg",
+        "captain": true
+      },
+      {
+        "playername": "Ismail M Toraub",
+        "position": "MIDFIELDER",
+        "image": "default.png",
+        "captain": true
+      },
+      {
+        "playername": "Sufyaan M Ausrafally",
+        "position": "MIDFIELDER",
+        "image": "sufyaan.jpeg",
+        "captain": false
+      },
+      {
+        "playername": "Abdullah M Toraub",
+        "position": "GOALKEEPER",
+        "image": "abdoullah.jpeg",
+        "captain": false
+      }
+    ]
+  },
+  "matches": {
+    "next_matches": [
+      {
+        "home_team": "Bel Air YC A",
+        "home_logo": "belairyouthclub.png",
+        "away_team": "Bel Air YC B",
+        "away_logo": "belairyouthclub.png",
+        "date": "29 April 2023",
+        "location": "Bel Air playground"
+      }
+    ],
+    "recent_matches": [
+      {
+        "home_team": "Bel Air YC A",
+        "home_logo": "belairyouthclub.png",
+        "away_team": "Bel Air YC B",
+        "away_logo": "belairyouthclub.png",
+        "date": "29 April 2023",
+        "location": "Bel Air playground",
+        "home_score": "-",
+        "away_score": "-"
+      }
+    ]
+  },
+  "activities": [
+    {
+      "title": "PUBG Tournament",
+      "date_posted": "12 April 2023",
+      "posted_by": "M.Daboo",
+      "description": "⚠️ Are you ready to battle? ⚠️",
+      "tag_name": "PUBG",
+      "image": "PUBG_COMPETITION_BYC.png",
+      "display": true
+    },
+    {
+      "title": "Creation of Bel Air Youth Club",
+      "date_posted": "13 March 2023",
+      "posted_by": "M.Daboo",
+      "description": "Unveiling Our Club Efforts to empower youngsters to develop their skills and to stay healthy.",
+      "tag_name": "SOCCER",
+      "image": "Hanover.png",
+      "display": true
+    }
+  ],
+  "news": [
+    {
+      "title": "Happy Easter",
+      "date_posted": "08 April 2023",
+      "posted_by": "M.Daboo",
+      "description": "The spirit of Easter is all about hope, love, and joyful living. May you have a blessed day!",
+      "tag_name": "HOLIDAY",
+      "image": "Easter.png",
+      "display": true
+    },
+    {
+      "title": "Creation of Bel Air Youth Club",
+      "date_posted": "13 March 2023",
+      "posted_by": "M.Daboo",
+      "description": "Unveiling Our Club Efforts to empower youngsters to develop their skills and to stay healthy.",
+      "tag_name": "SOCCER",
+      "image": "Hanover.png",
+      "display": true
+    }
+  ],
+  "headlights": [
+    {
+      "title": "Training on Saturdays @ 16:30"
+    },
+    {
+      "title": "Training on Sundays @ 16:30"
+    }
+  ],
+  "sponsors": [],
+  "contactDetails": {
+    "address": "Bel Air Riviere Seche, Flacq, Mauritius",
+    "phoneNumber": 58982288,
+    "facebook": "",
+    "instagram": "",
+    "tickTok": "",
+    "email": "daboomohesh822@gmail.com"
+  }
+}
